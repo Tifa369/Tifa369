@@ -29,14 +29,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tifa369)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Tifa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tifa369&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tifa369)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Tifa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tifa369" />
 
 </details>
 
