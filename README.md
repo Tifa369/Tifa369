@@ -1,4 +1,5 @@
-Hello Everyone, I am Tifa 👋
+### Hello Everyone, I am Tifa 👋
+<br>
 
 <img align="right" alt="GIF" src="https://github.com/Tifa369/Tifa369/blob/main/me.gif?raw=true" width="500" height="320" />
 
@@ -11,4 +12,5 @@ Hello Everyone, I am Tifa 👋
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/latifa-el-bargui-720073151/)
 - ⚡ Fun fact: I love tea! 
 
+### Languages and tools :
 
