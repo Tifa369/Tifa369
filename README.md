@@ -14,3 +14,9 @@
 
 ### Languages and tools :
 
+<img align="left" alt="HTML" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/html.png"/>
+<img align="left" alt="CSS" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/css.png"/>
+<img align="left" alt="Javascript" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/js.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/visual%20studio.png"/>
+<img align="left" alt="Angular" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/angular.png"/>
+<img align="left" alt="Github" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/github.png"/>
