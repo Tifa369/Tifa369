@@ -20,3 +20,5 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/visual%20studio.png"/>
 <img align="left" alt="Angular" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/angular.png"/>
 <img align="left" alt="Github" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/github.png"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tifa369)](https://github.com/anuraghazra/github-readme-stats)
