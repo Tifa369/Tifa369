@@ -1,5 +1,4 @@
 ### Hello Everyone, I am Tifa 👋
-<br>
 
 <img align="right" alt="GIF" src="https://github.com/Tifa369/Tifa369/blob/main/me.gif?raw=true" width="500" height="320" />
 
@@ -22,10 +21,23 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/visual%20studio.png"/>
 <img align="left" alt="Angular" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/angular.png"/>
 <img align="left" alt="Github" width="26px" src="https://github.com/Tifa369/Tifa369/blob/main/Icon/github.png"/>
-<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tifa369)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+---
 
-<br>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tifa369)](https://github.com/anuraghazra/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tifa369)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tifa369)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
